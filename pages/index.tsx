@@ -146,14 +146,15 @@ const Index = () => (
                         {/* Description */}
                         <div className='text'>
                             <p>
-                                JavaScript and Node.js expert. Principal Frontend Engineer building high-performance,
-                                scalable and maintainable web-services for over {new Date().getFullYear() - 2006} years.
-                                Public speaker and JavaScript tutor. Developer and promoter of modern technologies and
-                                approaches.
-                            </p>
-                            <p>
-                                Being among strongest engineer in companies I worked in, I was participating in key
-                                architectural decisions, team building and mentoring activities.
+                                As Principal Frontend Engineer I am deeply integrated in all layers of company: backend,
+                                frontend, design, dev-ops, legal, product, data, HR and PR. However my primary focus as
+                                JavaScript/Node.js and GraphQL expert are frontend technologies. I make sure that
+                                company shines and has a bright future with right number of happy developers onboard. I
+                                participate in key architectural and strategical decisions, team building, workshops and
+                                mentoring activities. I do public speaking on company behalf, writing articles about
+                                tech-stack used in my company as well as tutoring JavaScript and web-technologies
+                                in-house and at universities. I am maintainer of key frontend libraries like components
+                                and codestyle. I always keep myself in a loop with modern technologies.
                             </p>
                             <p>
                                 It does not matter if I start a project from a scratch or work on existing one – it will
